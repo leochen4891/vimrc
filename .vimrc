@@ -13,6 +13,7 @@ Plugin 'altercation/vim-colors-solarized'
 Plugin 'tpope/vim-fugitive'
 Plugin 'tpope/vim-surround'
 Plugin 'tpope/vim-commentary.git'
+Plugin 'benjifisher/matchit.zip.git'
 "Plugin 'Valloric/YouCompleteMe.git'
 call vundle#end()            " required
 filetype plugin indent on    " required
